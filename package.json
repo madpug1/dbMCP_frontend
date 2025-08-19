@@ -2,6 +2,7 @@
   "name": "my-mcp-app",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://your-chosen-netlify-app-name.netlify.app",
   "type": "module",
   "scripts": {
     "dev": "vite",
